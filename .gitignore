@@ -1,0 +1,17 @@
+cache
+old
+paint
+replay
+
+lapfiles
+
+Telemetry/*.log
+
+Telemetry/barber-full
+Telemetry/montreal
+Telemetry/okayama-full
+Telemetry/roadamerica-full
+Telemetry/sebring-modified
+Telemetry/summit-jefferson-rev
+Telemetry/suzuka-grandprix
+Telemetry/virginia-full
