@@ -1,0 +1,2 @@
+if notdc transmit @allteams
+if dc transmit @team

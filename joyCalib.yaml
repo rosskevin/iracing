@@ -6,9 +6,9 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
-     CalibMin: -6465
-     CalibCenter: 0
-     CalibMax: 6500
+     CalibMin: -6576
+     CalibCenter: 168
+     CalibMax: 6551
    - Axis: 2
      AxisName: 'Y Rotation'
      CalibMin: -32758
