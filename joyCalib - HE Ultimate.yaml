@@ -1,0 +1,53 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'Steering Wheel'
+   InstanceGUID: '{A417E650-33F5-11E2-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: -6576
+     CalibCenter: 168
+     CalibMax: 6551
+   - Axis: 2
+     AxisName: 'Y Rotation'
+     CalibMin: -32758
+     CalibCenter: -5011
+     CalibMax: 32519
+ - DeviceName: 'HE Sim Pedals'
+   InstanceGUID: '{5F865600-95B7-11E3-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Z Axis'
+     CalibMin: 730
+     CalibCenter: 730
+     CalibMax: 1500
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 154
+     CalibCenter: 154
+     CalibMax: 1350
+   - Axis: 2
+     AxisName: 'X Axis'
+     CalibMin: 1008
+     CalibCenter: 1008
+     CalibMax: 2075
+ - DeviceName: 'BU0836A Interface'
+   InstanceGUID: '{220A2610-7E9A-11E2-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Y Rotation'
+     CalibMin: 625
+     CalibCenter: 625
+     CalibMax: 1100
+   - Axis: 1
+     AxisName: 'X Rotation'
+     CalibMin: 95
+     CalibCenter: 95
+     CalibMax: 830
+   - Axis: 2
+     AxisName: 'Z Axis'
+     CalibMin: 900
+     CalibCenter: 900
+     CalibMax: 1580
+...
