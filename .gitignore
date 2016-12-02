@@ -2,7 +2,7 @@ cache
 old
 paint
 replay
-
+logs
 lapfiles
 
 Telemetry/*.log
@@ -15,3 +15,4 @@ Telemetry/sebring-modified
 Telemetry/summit-jefferson-rev
 Telemetry/suzuka-grandprix
 Telemetry/virginia-full
+setups/*/SetupSync/*
