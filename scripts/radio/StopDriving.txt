@@ -1,0 +1,2 @@
+if dc unmute @allteams
+if qual_or_race unmute @allteams

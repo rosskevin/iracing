@@ -1,0 +1,4 @@
+if dc mute @allteams
+if qual_or_race transmit @drivers
+if dc transmit @team
+if qual_or_race mute @allteams
