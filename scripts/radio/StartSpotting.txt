@@ -1,3 +1,0 @@
-transmit @team
-mute @allteams
-mute @drivers

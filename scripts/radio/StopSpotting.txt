@@ -1,3 +1,0 @@
-unmute @drivers
-unmute @allteams
-if notdc transmit @allteams
