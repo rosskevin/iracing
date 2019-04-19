@@ -17,6 +17,8 @@ lapfiles
 *.ico
 *.scn
 *.sgn
+*.log
+
 
 version.txt
 version_*.txt
