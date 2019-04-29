@@ -6,19 +6,19 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'Z Axis'
-     CalibMin: 629
-     CalibCenter: 632
-     CalibMax: 2163
+     CalibMin: 730
+     CalibCenter: 730
+     CalibMax: 1500
    - Axis: 1
      AxisName: 'Y Axis'
-     CalibMin: 19
-     CalibCenter: 22
-     CalibMax: 749
+     CalibMin: 154
+     CalibCenter: 154
+     CalibMax: 1350
    - Axis: 2
      AxisName: 'X Axis'
-     CalibMin: 828
-     CalibCenter: 896
-     CalibMax: 2104
+     CalibMin: 1008
+     CalibCenter: 1008
+     CalibMax: 2075
  - DeviceName: 'SimuCUBE'
    InstanceGUID: '{BB380190-62A0-11E9-8004-444553540000}'
    AxisList:
