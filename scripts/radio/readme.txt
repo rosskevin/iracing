@@ -84,6 +84,14 @@ To check whether or not this is a Team Driving session (also known as a Driver-C
 if dc
 if notdc
 
+To check whether or not this is a Heat Racing session (the overall event, not whether the specific session is a Heat race):
+if heats
+if notheats
+
+To check whether or not this is either a Qualify or a Race session:
+if qual_or_race
+if notqual_or_race
+
 To check whether or not you are a spectator in the session:
 if spectator
 if notspectator
@@ -98,6 +106,14 @@ For example,
 	if dc mute @allteams
 
 would be applied only in sessions with driver changes,
+
+	if qual_or_race mute @allteams
+
+would be applied only if the current session is either Qualify or Race,
+
+	if notheats mute @allteams
+
+would be applied only if this is not a Heat racing event,
 
 	if notdc mute @allteams
 
@@ -124,9 +140,12 @@ if dc transmit @team
 
 StartDriving.txt
 if dc mute @allteams
+if qual_or_race transmit @drivers
+if qual_or_race mute @allteams
 
 StopDriving.txt
 if dc unmute @allteams
+if qual_or_race unmute @allteams
 
 StartSpotting.txt
 transmit @team

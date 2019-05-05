@@ -1,9 +1,27 @@
 cache
+coherent
+dxredist
+EasyAntiCheat
+httproot
 old
 paint
 replay
 logs
 lapfiles
+
+*.bat
+*.dat
+*.dll
+*.exe
+*.htm
+*.ico
+*.scn
+*.sgn
+*.log
+
+
+version.txt
+version_*.txt
 
 Telemetry/*.log
 
