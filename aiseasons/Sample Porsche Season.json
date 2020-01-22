@@ -1,0 +1,189 @@
+{
+	"aiCarClassId": 95,
+	"carId": 88,
+	"damageModel": 0,
+	"track_state": {
+		"leave_marbles": true,
+		"practice_rubber": -1,
+		"qualify_rubber": -1,
+		"race_rubber": -1
+	},
+	"time_of_day": 0,
+	"weather": {
+		"type": 1,
+		"temp_units": 0,
+		"temp_value": 78,
+		"rel_humidity": 55,
+		"fog": 0,
+		"wind_dir": 0,
+		"wind_units": 0,
+		"wind_value": 2,
+		"skies": 1,
+		"simulated_start_time": "2019-05-15T14:51:53",
+		"simulated_time_multiplier": 1,
+		"simulated_time_offsets": [
+			0,
+			0
+		]
+	},
+	"full_course_cautions": false,
+	"gridPosition": 1,
+	"lucky_dog": false,
+	"max_drivers": 20,
+	"num_fast_tows": -1,
+	"avoidUser": false,
+	"minSkill": 25,
+	"maxSkill": 50,
+	"practice_length": 5,
+	"qualify_laps": 3,
+	"qualify_length": 10,
+	"race_laps": 0,
+	"race_length": 15,
+	"race_length_type": 2,
+	"restarts": 1,
+	"rolling_starts": false,
+	"subsessions": [
+		3,
+		5,
+		6
+	],
+	"userCarClassId": 0,
+	"events": [
+		{
+			"trackId": 46,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "f915a980-14ed-7148-5f6e-feb732e59cbb"
+		},
+		{
+			"trackId": 106,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "26e80df6-5b1b-1a32-aaf1-b0796af78ff1"
+		},
+		{
+			"trackId": 250,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "3a21ca6b-5eb8-b0d5-7a3f-56ff8a8090c4"
+		},
+		{
+			"trackId": 345,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "ec0ce220-2a51-99c5-4b4b-bedd7869f8fb"
+		},
+		{
+			"trackId": 233,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "4e958142-0fb0-97b8-2f43-bfc9b84c5f68"
+		},
+		{
+			"trackId": 352,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "bc6a2afe-42ef-5759-9e69-949683986c32"
+		},
+		{
+			"trackId": 18,
+			"num_opt_laps": 0,
+			"paceCar": {
+				"category_id": 2,
+				"car_id": 32,
+				"is_oval": false,
+				"is_dirt": false,
+				"car_name": "Pace Car - Mustang",
+				"car_class_id": 11,
+				"order": 3
+			},
+			"subsessions": [
+				3,
+				5,
+				6
+			],
+			"eventId": "f18c0560-7f93-b69e-fedc-1cf56dc326a0"
+		}
+	],
+	"points_system_id": 4,
+	"name": "Sample Porsche Season",
+	"etag": "\"96e8cf870f568b0342bca2d353f60e0c\""
+}
