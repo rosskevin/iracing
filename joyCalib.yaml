@@ -14,17 +14,17 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'Z Axis'
-     CalibMin: 623
-     CalibCenter: 626
-     CalibMax: 2286
+     CalibMin: 725
+     CalibCenter: 1400
+     CalibMax: 1900
    - Axis: 1
      AxisName: 'Y Axis'
-     CalibMin: 17
-     CalibCenter: 20
-     CalibMax: 1699
+     CalibMin: 40
+     CalibCenter: 1000
+     CalibMax: 1250
    - Axis: 2
      AxisName: 'X Axis'
-     CalibMin: 868
-     CalibCenter: 890
-     CalibMax: 2152
+     CalibMin: 890
+     CalibCenter: 1550
+     CalibMax: 2050
 ...
