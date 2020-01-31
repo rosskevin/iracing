@@ -3,10 +3,70 @@ DataType=Controller
 Version=2019.05.01
 
 [Button Locations]
+Button1Location=212,190
+Button2Location=240,190
+Button3Location=212,218
+Button4Location=241,218
+Button5Location=213,108
+Button6Location=241,107
+Button7Location=213,136
+Button8Location=241,136
+Button9Location=289,109
+Button10Location=317,108
+Button11Location=289,136
+Button12Location=317,136
+Button13Location=286,193
+Button14Location=314,193
+Button15Location=286,220
+Button16Location=314,221
+Button17Location=285,51
+Button18Location=258,51
+Button19Location=274,19
+Button20Location=343,18
+Button21Location=357,50
+Button22Location=329,50
+Button23Location=362,194
+Button24Location=391,194
+Button25Location=363,221
+Button26Location=390,221
+Button27Location=365,109
+Button28Location=392,109
+Button29Location=365,136
+Button30Location=394,136
 
 [Access]
 
 [Names]
+Button1Name=Roll - intensity
+Button2Name=Roll + intensity
+Button3Name=Roll - orientation multiplier
+Button4Name=Roll + orientation multiplier
+Button5Name=Roll - amplitude
+Button6Name=Roll + amplitude
+Button7Name=Roll - acceleration multiplier
+Button8Name=Roll + acceleration multiplier
+Button9Name=Pitch - amplitude
+Button10Name=Pitch + amplitude
+Button11Name=Pitch - acceleration multiplier
+Button12Name=Pitch + acceleration multiplier
+Button13Name=Pitch - intensity
+Button14Name=Pitch + intensity
+Button15Name=Pitch - orientation multiplier
+Button16Name=Pitch + orientation multiplier
+Button17Name=Amplitude +
+Button18Name=Amplitude -
+Button19Name=Profile previous
+Button20Name=Profile+
+Button21Name=Intensity +
+Button22Name=Intensity -
+Button23Name=Yaw - intensity
+Button24Name=Yaw + intensity
+Button25Name=Park sim
+Button26Name=Save profile
+Button27Name=Yaw - amplitude
+Button28Name=Yaw + amplitude
+Button29Name=Yaw - acceleration multiplier
+Button30Name=Yaw + acceleration multiplier
 
 [Image]
 ImageLine1=0,0,FFFFFF,200
