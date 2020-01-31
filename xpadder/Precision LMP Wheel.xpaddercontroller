@@ -3,10 +3,50 @@ DataType=Controller
 Version=2019.05.01
 
 [Button Locations]
+Button1Location=142,35
+Button2Location=184,31
+Button3Location=219,6
+Button4Location=264,6
+Button5Location=301,30
+Button6Location=344,35
+Button7Location=407,140
+Button8Location=75,135
+Button9Location=133,140
+Button10Location=173,192
+Button11Location=309,194
+Button12Location=348,145
+Button13Location=145,170
+Button14Location=118,170
+Button15Location=184,221
+Button16Location=157,221
+Button17Location=324,222
+Button18Location=297,222
+Button19Location=362,174
+Button20Location=335,174
 
 [Access]
 
 [Names]
+Button1Name=Talk
+Button2Name=HMD
+Button3Name=Wiper
+Button4Name=Tow
+Button5Name=Flash
+Button6Name=Pit limiter
+Button7Name=Upshift
+Button8Name=Downshift
+Button9Name=Button 9
+Button10Name=Button 10
+Button11Name=Button 11
+Button12Name=Button 12
+Button13Name=TC +
+Button14Name=TC -
+Button15Name=Brake bias +
+Button16Name=Brake bias -
+Button17Name=ABS +
+Button18Name=ABS -
+Button19Name=Engine map +
+Button20Name=Engine map -
 
 [Image]
 ImageLine1=0,0,FFFFFF,E2,F6F6F6,CDCECF,96999A,62676A,52575A,404548,3E4346,3A3F42,3A3F42,393F42,434A4D,7B8083,878C8F,898E91,979C9F,9BA0A3,6A6F72,484A4E,46474B,45464A,414246,414246,414246,434448,47474B,52575A,8A8B8F,909396,6D7174,7E8386,9CA1A4,909598,4D5255,484C51,4D5255,484D50,454A4D,464B4E,4A4E52,4A4B4F,4D4E52,64686C,94999C,8A8E91,676C6F,787D80,959A9D,878C8F,505558,4D5357,4D5156,4D5156,4B4F54,4C5154,505558,55595C,5B6062,818689,A7ACAF,969B9E,AFB5B5,CFD2D1,EFF0F0,0,FFFFFF,DF
