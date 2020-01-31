@@ -8,6 +8,17 @@ Version=2019.05.01
 
 [Assignments]
 Set1Button1Slots=Left Shift,Alt,T
+Set1Button2Slots=Left Control,Alt,C
+Set1Button3Slots=Left Control,Alt,T
+Set1Button4Slots=Left Control,Alt,E
+Set1Button5Slots=Left Control,Alt,P
+Set1Button6Slots=A
+Set1Button7Slots=Minus
+Set1Button8Slots=Equals
+Set1Button9Slots=Semi-Colon
+Set1Button10Slots=Left Shift,W
+Set1Button11Slots=Left Control,Alt,B
+Set1Button12Slots=Left Control,Alt,A
 Set1Button13Slots=Left Control,Alt,F
 Set1Button14Slots=Left Shift,R
 Set1Button15Slots=Left Shift,Alt,D
