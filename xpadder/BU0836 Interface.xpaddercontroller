@@ -3,10 +3,26 @@ DataType=Controller
 Version=2019.05.01
 
 [Button Locations]
+Button1Location=254,105
+Button2Location=227,105
+Button7Location=259,39
+Button8Location=231,39
+Button15Location=246,152
+Button16Location=218,152
+Button17Location=216,192
+Button18Location=245,192
 
 [Access]
 
 [Names]
+Button1Name=Radio +
+Button2Name=Radio -
+Button7Name=Volume +
+Button8Name=Volume -
+Button15Name=Mute driver
+Button16Name=Mute radio
+Button17Name=Ignition
+Button18Name=Starter
 
 [Image]
 ImageLine1=0,0,FFFFFF,17F,EBEBEB,0,FFFFFF,80
