@@ -34,5 +34,6 @@ Telemetry/summit-jefferson-rev
 Telemetry/suzuka-grandprix
 Telemetry/virginia-full
 setups/*/SetupSync/*
-setups/porsche991rsr/-Current-
+-Current-
 *.sto
+.vs
