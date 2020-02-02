@@ -34,6 +34,6 @@ Telemetry/summit-jefferson-rev
 Telemetry/suzuka-grandprix
 Telemetry/virginia-full
 setups/*/SetupSync/*
--Current-
+setups/*/-Current-
 *.sto
 .vs
