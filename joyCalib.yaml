@@ -25,6 +25,6 @@ CalibrationInfo:
    - Axis: 2
      AxisName: 'X Axis'
      CalibMin: 849
-     CalibCenter: 852
-     CalibMax: 2161
+     CalibCenter: 1474
+     CalibMax: 2100
 ...
