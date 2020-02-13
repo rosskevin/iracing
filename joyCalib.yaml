@@ -14,9 +14,9 @@ CalibrationInfo:
    AxisList:
    - Axis: 0
      AxisName: 'Z Axis'
-     CalibMin: 625
-     CalibCenter: 626
-     CalibMax: 2291
+     CalibMin: 680
+     CalibCenter: 720
+     CalibMax: 2190
    - Axis: 1
      AxisName: 'Y Axis'
      CalibMin: 20
