@@ -19,9 +19,9 @@ CalibrationInfo:
      CalibMax: 2190
    - Axis: 1
      AxisName: 'Y Axis'
-     CalibMin: 30
-     CalibCenter: 930
-     CalibMax: 1831
+     CalibMin: 49
+     CalibCenter: 1069
+     CalibMax: 2090
    - Axis: 2
      AxisName: 'X Axis'
      CalibMin: 849
