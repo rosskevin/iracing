@@ -1,14 +1,6 @@
 ---
 CalibrationInfo:
  DeviceList:
- - DeviceName: 'SimuCUBE'
-   InstanceGUID: '{BB380190-62A0-11E9-8004-444553540000}'
-   AxisList:
-   - Axis: 0
-     AxisName: 'X Axis'
-     CalibMin: 66
-     CalibCenter: 32648
-     CalibMax: 65494
  - DeviceName: 'HE Sim Pedals'
    InstanceGUID: '{BB3828A0-62A0-11E9-8006-444553540000}'
    AxisList:
@@ -27,4 +19,12 @@ CalibrationInfo:
      CalibMin: 849
      CalibCenter: 859
      CalibMax: 2100
+ - DeviceName: 'SimuCUBE'
+   InstanceGUID: '{BB380190-62A0-11E9-8004-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 66
+     CalibCenter: 32648
+     CalibMax: 65494
 ...
