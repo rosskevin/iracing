@@ -1,6 +1,14 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'Simucube 2 Pro'
+   InstanceGUID: '{C9B8F590-6537-11EA-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32884
+     CalibMax: 65535
  - DeviceName: 'Heusinkveld Sim Pedals Ultimate'
    InstanceGUID: '{F52D4C80-6291-11ED-8001-444553540000}'
    AxisList:
@@ -19,14 +27,6 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 0
      CalibMax: 3958
- - DeviceName: 'Simucube 2 Pro'
-   InstanceGUID: '{C9B8F590-6537-11EA-8001-444553540000}'
-   AxisList:
-   - Axis: 0
-     AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 32884
-     CalibMax: 65535
  - DeviceName: 'HE Sim Pedals'
    InstanceGUID: '{BB3828A0-62A0-11E9-8006-444553540000}'
    AxisList:
