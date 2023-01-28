@@ -1,39 +1,33 @@
 ;--- Xpadder Profile File ---
 DataType=Profile
-Version=2019.05.01
+Version=2022.05.01
 
 [Profile Settings]
 
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Shift,Left Control,Alt,E
-Set1Button2Slots=Left Shift,Left Control,Alt,R
-Set1Button3Slots=Left Shift,Left Control,Alt,U
-Set1Button4Slots=Left Shift,Left Control,Alt,I
-Set1Button5Slots=Left Shift,Left Control,Alt,Q
-Set1Button6Slots=Left Shift,Left Control,Alt,W
-Set1Button7Slots=Left Shift,Left Control,Alt,T
-Set1Button8Slots=Left Shift,Left Control,Alt,Y
-Set1Button9Slots=Left Shift,Left Control,Alt,6
-Set1Button10Slots=Left Shift,Left Control,Alt,5
-Set1Button11Slots=Left Shift,Left Control,Alt,G
-Set1Button12Slots=Left Shift,Left Control,Alt,H
-Set1Button13Slots=Left Shift,Left Control,Alt,D
-Set1Button14Slots=Left Shift,Left Control,Alt,F
-Set1Button15Slots=Left Shift,Left Control,Alt,8
-Set1Button16Slots=Left Shift,Left Control,Alt,7
-Set1Button17Slots=Left Shift,Left Control,Equals
-Set1Button18Slots=Left Shift,Left Control,Minus
-Set1Button19Slots=Left Shift,Left Control,Back-Tick
+Set1Button1Slots=Left Shift,Left Control,E
+Set1Button2Slots=Left Shift,Left Control,R
+Set1Button3Slots=Left Shift,Left Control,U
+Set1Button4Slots=Left Shift,Left Control,I
+Set1Button5Slots=Left Shift,Left Control,Q
+Set1Button6Slots=Left Shift,Left Control,W
+Set1Button7Slots=Left Shift,Left Control,T
+Set1Button8Slots=Left Shift,Left Control,Y
+Set1Button9Slots=Left Shift,Left Control,A
+Set1Button10Slots=Left Shift,Left Control,S
+Set1Button11Slots=Left Shift,Left Control,G
+Set1Button12Slots=Left Shift,Left Control,H
+Set1Button13Slots=Left Shift,Left Control,D
+Set1Button14Slots=Left Shift,Left Control,F
+Set1Button15Slots=Left Shift,Left Control,J
+Set1Button16Slots=Left Shift,Left Control,K
+Set1Button19Slots=Left Shift,Left Control,Semi-Colon
 Set1Button20Slots=Left Shift,Left Control,Apostrophe
-Set1Button21Slots=Left Shift,Left Control,Right Square Bracket
-Set1Button22Slots=Left Shift,Left Control,Left Square Bracket
-Set1Button23Slots=Left Shift,Left Control,Alt,C
-Set1Button24Slots=Left Shift,Left Control,Alt,9
-Set1Button25Slots=8
-Set1Button26Slots=1
-Set1Button27Slots=Left Shift,Left Control,Alt,0
-Set1Button28Slots=Left Shift,Left Control,Alt,X
-Set1Button29Slots=Left Shift,Left Control,Alt,B
-Set1Button30Slots=Left Shift,Left Control,Alt,N
+Set1Button23Slots=Left Shift,Left Control,C
+Set1Button24Slots=Left Shift,Left Control,V
+Set1Button27Slots=Left Shift,Left Control,Z
+Set1Button28Slots=Left Shift,Left Control,X
+Set1Button29Slots=Left Shift,Left Control,B
+Set1Button30Slots=Left Shift,Left Control,N

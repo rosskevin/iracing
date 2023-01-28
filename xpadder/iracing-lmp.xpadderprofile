@@ -1,13 +1,13 @@
 ;--- Xpadder Profile File ---
 DataType=Profile
-Version=2019.05.01
+Version=2022.05.01
 
 [Profile Settings]
 
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Shift,Alt,T
+Set1Button1Slots=Left Control,Left Shift,Alt,T
 Set1Button2Slots=Semi-Colon
 Set1Button3Slots=Left Shift,W
 Set1Button4Slots=Left Shift,R
