@@ -7,7 +7,7 @@ Version=2022.05.01
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Control,Left Shift,Alt,T
+Set1Button1Slots=Left Control,Left Shift,Alt,R
 Set1Button2Slots=Semi-Colon
 Set1Button3Slots=Left Shift,W
 Set1Button4Slots=Left Shift,R
@@ -15,8 +15,8 @@ Set1Button5Slots=Left Control,Alt,F
 Set1Button6Slots=A
 Set1Button7Slots=Left Shift,Alt,U
 Set1Button8Slots=Left Shift,Alt,D
-Set1Button10Slots=Left Control,Left Shift,Alt,S
-Set1Button11Slots=Left Control,Left Shift,Alt,R
+Set1Button10Slots=Left Control,Left Shift,Alt,1
+Set1Button11Slots=Left Control,Left Shift,Alt,2
 Set1Button13Slots=Left Control,Alt,T
 Set1Button14Slots=Left Control,Alt,C
 Set1Button15Slots=Equals
