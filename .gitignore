@@ -8,6 +8,7 @@ paint
 replay
 logs
 lapfiles
+telemetry
 
 *.bat
 *.dat
