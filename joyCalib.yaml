@@ -16,17 +16,30 @@ CalibrationInfo:
      AxisName: 'Z Rotation'
      CalibMin: 0
      CalibCenter: 0
-     CalibMax: 3638
+     CalibMax: 4006
    - Axis: 1
      AxisName: 'Y Rotation'
-     CalibMin: 767
-     CalibCenter: 767
-     CalibMax: 3402
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 3663
    - Axis: 2
      AxisName: 'X Rotation'
      CalibMin: 0
      CalibCenter: 0
-     CalibMax: 3870
+     CalibMax: 4095
+ - DeviceName: 'BavarianSimTec OmegaPRO'
+   InstanceGUID: '{7AB42310-7B50-11EE-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
  - DeviceName: 'HE Sim Pedals'
    InstanceGUID: '{BB3828A0-62A0-11E9-8006-444553540000}'
    AxisList:

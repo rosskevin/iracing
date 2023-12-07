@@ -1,3 +1,4 @@
+aiseasons
 cache
 coherent
 dxredist
@@ -9,6 +10,7 @@ replay
 logs
 lapfiles
 telemetry
+sentry
 
 *.bat
 *.dat
