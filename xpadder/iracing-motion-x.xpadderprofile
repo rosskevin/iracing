@@ -7,16 +7,10 @@ Version=2022.05.01
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Control,Left Shift,Alt,L
-Set1Button2Slots=Left Shift,Left Control,Alt,Q
 Set1Button3Slots=Media Volume Up
 Set1Button4Slots=Media Volume Down
 Set1Button16Slots=Escape
 Set1Button17Slots=Left Shift,R
-Set1Button18Slots=Left Shift,Left Control,Alt,M
-Set1Button19Slots=Left Shift,Left Control,Alt,D
-Set1Button20Slots=Left Shift,Alt,P
-Set1Button21Slots=Left Shift,Alt,C
 Set1Button26Slots=Right Control,Delete
 Set1Button27Slots=Right Control,Insert
 Set1Button28Slots=Left Control,E
