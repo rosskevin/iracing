@@ -1,17 +1,15 @@
 ;--- Xpadder Profile File ---
 DataType=Profile
-Version=2019.05.01
+Version=2022.05.01
 
 [Profile Settings]
 
 [Set Settings]
 
 [Assignments]
-Set1Button1Slots=Left Shift,Alt,L
-Set1Button2Slots=Left Shift,Alt,Q
+Set1Button3Slots=Media Volume Up
+Set1Button4Slots=Media Volume Down
 Set1Button7Slots=Media Volume Up
 Set1Button8Slots=Media Volume Down
-Set1Button15Slots=Left Shift,Alt,V
-Set1Button16Slots=Left Shift,Alt,M
-Set1Button17Slots=I
-Set1Button18Slots=S
+Set1Button16Slots=Left Control,Left Shift,8
+Set1Button17Slots=Escape
