@@ -40,6 +40,14 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 0
      CalibMax: 65535
+ - DeviceName: 'Heusinkveld Sim Handbrake'
+   InstanceGUID: '{76505580-6AC2-11EE-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4095
  - DeviceName: 'HE Sim Pedals'
    InstanceGUID: '{BB3828A0-62A0-11E9-8006-444553540000}'
    AxisList:
