@@ -213,12 +213,12 @@ EnableTicker=0                          	; set to 1 to turn on ticker when sessi
 
 [Pit Service]
 autoFuelDefaultEnable=1                 	; 1 - Autofuel will be enabled by default, 0 - Autofuel will remain disabled
-autoFuelDefaultMarginLaps=1.000000      	; # of laps of safety margin to use by default for Autofuel
+autoFuelDefaultMarginLaps=1.2           	; # of laps of safety margin to use by default for Autofuel
 autoResetFastRepair=1                   	; Automatically request fast repair service once your vehicle exits pit road
 autoResetPitBox=1                       	; Automatically request full pit service once your vehicle exits pit road
 
 [Replay]
-askToSaveOnQuit=0                       	; Ask to save the replay before quitting via the [Quit] button??
+askToSaveOnQuit=1                       	; Ask to save the replay before quitting via the [Quit] button??
 CPUUsageAtWhichToReducePlaybackRate=95  	; Realtime thread CPU usage at/above which to reduce play speed (0 disables)
 CPUVsPlaySpeedCheckPeriod=2             	; Number of seconds between checks to see if play speed is chewing up too much CPU
 DefaultReplayChatReviewState=0          	; Upon entering the Replay/Session screen, default 'replay voice chat review' state (0=off, 1=on).
@@ -291,7 +291,7 @@ reportPitboxCount=1                     	; Enable Pit Box Countdown
 text=0                                  	; Does the spotter display text messages?
 textDurationFactor=1.000000             	; Multiplyer to extend duration that spotter text is shown
 topic_mask=0                            
-verbosity=1                             	; How chatty is the spotter?
+verbosity=2                             	; How chatty is the spotter?
 voice=1                                 	; Does the spotter talk to you?
 voicePack=                              	; Voice pack for spotter, leave blank for default spotter
 
