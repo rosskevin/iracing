@@ -23,6 +23,7 @@ sentry
 *.scn
 *.sgn
 *.log
+*.Backup
 
 
 version.txt
