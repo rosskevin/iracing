@@ -21,7 +21,15 @@ CalibrationInfo:
      AxisName: 'Y Rotation'
      CalibMin: 0
      CalibCenter: 0
-     CalibMax: 65535
+     CalibMax: 52993
+ - DeviceName: 'Heusinkveld Sim Handbrake'
+   InstanceGUID: '{B904ACB0-B634-11EE-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4095
  - DeviceName: 'BavarianSimTec OmegaPRO'
    InstanceGUID: '{C3728140-B634-11EE-8004-444553540000}'
    AxisList:

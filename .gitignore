@@ -47,3 +47,9 @@ setups/*/-Current-
 iRacerAssistant/irAssist_tmp.ini
 iRacerAssistant/irAssist_template.ini
 iRacerAssistant/backup*
+
+sidekick/wheels
+sidekick/cars
+
+# ignore unused renderer files that sidekick adds
+rendererDX11.ini
