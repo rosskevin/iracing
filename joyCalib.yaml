@@ -1,14 +1,6 @@
 ---
 CalibrationInfo:
  DeviceList:
- - DeviceName: 'Simucube 2 Pro'
-   InstanceGUID: '{662B3160-B636-11EE-8007-444553540000}'
-   AxisList:
-   - Axis: 0
-     AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 32734
-     CalibMax: 65535
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{14371EF0-B636-11EE-8006-444553540000}'
    AxisList:
@@ -42,6 +34,14 @@ CalibrationInfo:
      AxisName: 'X Axis'
      CalibMin: 0
      CalibCenter: 0
+     CalibMax: 65535
+ - DeviceName: 'Simucube 2 Pro'
+   InstanceGUID: '{662B3160-B636-11EE-8007-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32734
      CalibMax: 65535
  - DeviceName: 'Heusinkveld Sim Handbrake'
    InstanceGUID: '{76505580-6AC2-11EE-8001-444553540000}'
