@@ -1,6 +1,14 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'BavarianSimTec OmegaPRO'
+   InstanceGUID: '{3E5EFDA0-1C66-11F0-8002-444553540000}'
+   AxisList:
+   - Axis: 1
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 40380
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{14371EF0-B636-11EE-8006-444553540000}'
    AxisList:
