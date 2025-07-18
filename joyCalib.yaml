@@ -30,6 +30,14 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 0
      CalibMax: 65535
+ - DeviceName: 'MME Handbrake'
+   InstanceGUID: '{35243CC0-60C0-11F0-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Slider'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4096
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{14371EF0-B636-11EE-8006-444553540000}'
    AxisList:
