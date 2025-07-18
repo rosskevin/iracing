@@ -1,6 +1,27 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'Simucube 2 Pro'
+   InstanceGUID: '{41874A90-3FA3-11F0-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 33199
+     CalibMax: 65535
+ - DeviceName: 'SC-Link Hub'
+   InstanceGUID: '{FE35BAB0-5F28-11F0-8001-444553540000}'
+   AxisList:
+   - Axis: 3
+     AxisName: 'X Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+   - Axis: 4
+     AxisName: 'Y Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 64848
  - DeviceName: 'BavarianSimTec OmegaPRO'
    InstanceGUID: '{3E5EFDA0-1C66-11F0-8002-444553540000}'
    AxisList:
@@ -8,7 +29,7 @@ CalibrationInfo:
      AxisName: 'X Axis'
      CalibMin: 0
      CalibCenter: 0
-     CalibMax: 40380
+     CalibMax: 65535
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{14371EF0-B636-11EE-8006-444553540000}'
    AxisList:
