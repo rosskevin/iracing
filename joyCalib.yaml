@@ -3,14 +3,34 @@ CalibrationInfo:
  DeviceList:
  - DeviceName: 'Simucube 2 Pro'
    InstanceGUID: '{41874A90-3FA3-11F0-8001-444553540000}'
+   ProductGUID: '{0D6016D0-0000-0000-0000-504944564944}'
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
      CalibMin: 0
-     CalibCenter: 33199
+     CalibCenter: 32734
      CalibMax: 65535
+ - DeviceName: 'BavarianSimTec OmegaPRO'
+   InstanceGUID: '{3E5EFDA0-1C66-11F0-8002-444553540000}'
+   ProductGUID: '{126B16D0-0000-0000-0000-504944564944}'
+   AxisList:
+   - Axis: 1
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+ - DeviceName: 'MME Handbrake'
+   InstanceGUID: '{35243CC0-60C0-11F0-8001-444553540000}'
+   ProductGUID: '{57510483-0000-0000-0000-504944564944}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Slider'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4096
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{FE35BAB0-5F28-11F0-8001-444553540000}'
+   ProductGUID: '{0D6616D0-0000-0000-0000-504944564944}'
    AxisList:
    - Axis: 3
      AxisName: 'X Rotation'
@@ -22,24 +42,9 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 0
      CalibMax: 64848
- - DeviceName: 'BavarianSimTec OmegaPRO'
-   InstanceGUID: '{3E5EFDA0-1C66-11F0-8002-444553540000}'
-   AxisList:
-   - Axis: 1
-     AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 0
-     CalibMax: 65535
- - DeviceName: 'MME Handbrake'
-   InstanceGUID: '{35243CC0-60C0-11F0-8001-444553540000}'
-   AxisList:
-   - Axis: 0
-     AxisName: 'Slider'
-     CalibMin: 0
-     CalibCenter: 0
-     CalibMax: 4096
  - DeviceName: 'SC-Link Hub'
    InstanceGUID: '{14371EF0-B636-11EE-8006-444553540000}'
+   ProductGUID: '{00000000-0000-0000-0000-000000000000}'
    AxisList:
    - Axis: 3
      AxisName: 'X Rotation'
@@ -53,6 +58,7 @@ CalibrationInfo:
      CalibMax: 52993
  - DeviceName: 'Heusinkveld Sim Handbrake'
    InstanceGUID: '{B904ACB0-B634-11EE-8003-444553540000}'
+   ProductGUID: '{00000000-0000-0000-0000-000000000000}'
    AxisList:
    - Axis: 0
      AxisName: 'X Rotation'
@@ -61,6 +67,7 @@ CalibrationInfo:
      CalibMax: 4095
  - DeviceName: 'BavarianSimTec OmegaPRO'
    InstanceGUID: '{C3728140-B634-11EE-8004-444553540000}'
+   ProductGUID: '{00000000-0000-0000-0000-000000000000}'
    AxisList:
    - Axis: 0
      AxisName: 'Y Axis'
@@ -74,6 +81,7 @@ CalibrationInfo:
      CalibMax: 65535
  - DeviceName: 'Simucube 2 Pro'
    InstanceGUID: '{662B3160-B636-11EE-8007-444553540000}'
+   ProductGUID: '{00000000-0000-0000-0000-000000000000}'
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
@@ -82,6 +90,7 @@ CalibrationInfo:
      CalibMax: 65535
  - DeviceName: 'Heusinkveld Sim Handbrake'
    InstanceGUID: '{76505580-6AC2-11EE-8001-444553540000}'
+   ProductGUID: '{00000000-0000-0000-0000-000000000000}'
    AxisList:
    - Axis: 0
      AxisName: 'X Rotation'
